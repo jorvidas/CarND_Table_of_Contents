@@ -1,5 +1,6 @@
 # CarND Table of Contents
-Links to all carnd projects
+Links and descriptions to all CarNd projects
+
 ## Term 3
 
 ### Path Planning Project ([Github](https://github.com/jorvidas/CarND-Path-Planning-Project))
@@ -12,9 +13,7 @@ Uses labeled images from a car's cameras to train a deep network to learn how to
 
 ### Programming a Real Self-Driving Car ([Github](https://github.com/jorvidas/CarND-Capstone))
 
-
 ## Term 2
-
 ### Extended Kalman Filters ([Github](https://github.com/jorvidas/CarND-Extended-Kalman-Filter-Project))
 
 Utilizes an extended kalman filter to estimate the state of a moving object.  The data from the RADAR and LIDAR is noisy and the extended kalman filter gives a best guess as to what the state is at the current time from a combination of the most recent data from the sensors and our guess of the car's position at the current time based on our previous estimate of the car's state.
